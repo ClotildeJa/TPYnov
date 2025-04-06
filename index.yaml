@@ -9,6 +9,6 @@ entries:
     name: farmville
     type: application
     urls:
-    - https://github.com/ClotildeJ/TPYnov/farmville-0.1.0.tgz
+    - https://github.com/ClotildeJa/TPYnov/farmville-0.1.0.tgz
     version: 0.1.0
 generated: "2025-04-06T08:40:18.910022572+02:00"
