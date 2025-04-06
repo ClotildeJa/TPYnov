@@ -3,12 +3,12 @@ entries:
   farmville:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-05T17:07:25.062780273+02:00"
+    created: "2025-04-06T08:40:18.911757379+02:00"
     description: A Helm chart for Kubernetes
     digest: 6a04e8099fb1d5dd6b1d1c433797c3aed678a07883291207e7807857eb8ee4b4
     name: farmville
     type: application
     urls:
-    - https://github.com/ClotildeJa/Kubernetes/blob/main/Helm/farmville-0.1.0.tgz
+    - https://github.com/ClotildeJ/TPYnov/farmville-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-05T17:07:25.061787488+02:00"
+generated: "2025-04-06T08:40:18.910022572+02:00"
